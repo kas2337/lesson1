@@ -1,2 +1,4 @@
 *.pyc
 __pycach__
+.vscode
+.swp
